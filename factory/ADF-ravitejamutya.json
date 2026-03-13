@@ -1,0 +1,9 @@
+{
+	"name": "ADF-ravitejamutya",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a1373d05-a3b9-4eda-b8c7-9033098c3ec1",
+		"tenantId": "133af76b-b310-4b4c-9817-34a1f025de2a"
+	}
+}
